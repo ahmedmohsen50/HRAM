@@ -1,80 +1,56 @@
-# HRAM Features Overview
+HRAM Features Overview
+Welcome to the HRAM (Human Resource and Attendance Management) system! This project aims to provide a comprehensive set of features for managing employees, attendance, and HR-related tasks. Below is an overview of the key features offered by this system:
 
-- Login Page you can using any web browser to login system
+Login Page
+Access the system using any web browser by logging in through the login page. This ensures secure access to the system for authorized personnel.
 
+Dashboard
+The dashboard provides an intuitive interface with commonly used graphs to visualize HR-related data. Get a quick overview of important metrics and insights.
 
-- Dashboard views the most common graphs used to visualize data
+Employees Management
+Record and manage employees' data efficiently using the employees management screen. Perform the following actions:
 
-
-Employees management screen record employees data
-
-
-
-- Set basics information
-- Set salaries.
-- Set loan
-- Set deduction
-- Set commotions
-- Set overtime rate
-- Set bank account
-- Set documents
-- Set shifts
-
-Core HR Module
-Transfer
-
-- Transfer employee from department to anther
-
+Set basic employee information such as name, contact details, and personal information.
+Manage employee salaries, including adjustments and updates.
+Handle employee loans, deductions, and compensations.
+Set overtime rates and manage overtime requests.
+Manage employee bank account details.
+Store and manage employee documents securely.
+Set employee shifts and manage scheduling.
+Core HR Module Transfer
+Efficiently transfer employees from one department to another within the organization. Manage department transfers seamlessly.
 
 Resignations
-
-- Management employees resignations
-
+Handle employee resignations through the system. Manage and track employee resignations efficiently.
 
 Warnings
-
-- management employees Warnings
-
+Effectively manage employee warnings and disciplinary actions. Keep track of employee performance-related issues and document them for future reference.
 
 Terminations
-
-- Management Terminations
-
+Manage employee terminations within the system. Maintain a record of terminated employees and relevant details.
 
 Departments
-
-- Add & view Departments
-
+Add and view departments within the organization. Keep track of organizational structure and hierarchy.
 
 Designation
+Manage employee designations within the organization. Assign specific job roles and responsibilities to employees.
 
-- Management designations
+Company Policies
+Record and maintain company policies within the system. Document and communicate organizational rules and guidelines.
 
+Timesheet's Module
+Efficiently manage employee attendance using the timesheet module. Perform the following actions:
 
-Company policies
+Manage employee attendance records.
+Import attendance data from finger print devices.
+Generate daily and monthly detailed attendance reports.
+Allow administrators to update attendance records.
+View individual employee attendance in detail.
+Generate overtime reports, indicating the status of overtime requests (approved, rejected, or pending).
+File Managers Module
+Efficiently manage files and folders within the system. Perform the following actions:
 
-- Record company policies
+Organize and store files and folders securely.
+Manage document expiration dates and receive notifications for approaching expirations.
 
-
-Timesheet’s module
-
-- Management attendance
-- Import from finger print device
-- Make attendance daily & monthly in detailed report
-
-
-- Can update attendance from admin account only
-- View employee attendance in details
-
-
-- Overtime report for all employees describes request status (Approved Or
-    rejected or pending ).
-
-File managers module
-
-- Mange all files and folders
-- Manage documents expirations date (notify you when expire date is close to end)
-
-
-
-
+This README provides an overview of the HRAM system, developed as my graduation project, and its key features. For more detailed information and instructions on using specific features, please refer to the relevant sections within the system's interface
