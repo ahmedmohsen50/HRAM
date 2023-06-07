@@ -54,6 +54,4 @@ Welcome to the HRAM (Human Resource and Attendance Management) repository! This 
 - Manage files and folders
 - Track document expiration dates
 
-Please refer to the specific modules and files within the repository for more detailed information on implementation and usage.
 
-Thank you for exploring the HRAM repository. If you have any questions or suggestions, please feel free to reach out.
